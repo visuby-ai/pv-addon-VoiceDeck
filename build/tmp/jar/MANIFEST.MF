@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: plasmosurveillance
+Specification-Vendor: YourNameHere
+Specification-Version: 1
+Implementation-Title: addonplasmo
+Implementation-Version: 1.0.0
+Implementation-Vendor: YourNameHere
+Implementation-Timestamp: 2026-08-26T23:40:28+0700
+
